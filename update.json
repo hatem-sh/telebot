@@ -1,0 +1,47 @@
+{
+    "update_id": 908417798,
+    "message": {
+        "message_id": 161,
+        "from": {
+            "id": 1009249668,
+            "is_bot": false,
+            "first_name": "Hatem",
+            "username": "hatemshohof",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 1009249668,
+            "first_name": "Hatem",
+            "username": "hatemshohof",
+            "type": "private"
+        },
+        "date": "2025-03-19T14:56:26+00:00",
+        "document": {
+            "file_id": "BQACAgIAAxkBAAOhZ9rbGQTA7hnIuOZM3V7kHiw6bs4AAsllAAJuR9hKQLD1tJWKHDY2BA",
+            "file_unique_id": "AgADyWUAAm5H2Eo",
+            "file_name": "4.jpg",
+            "file_size": 1076307,
+            "mime_type": "image/jpeg",
+            "thumbnail": {
+                "file_id": "AAMCAgADGQEAA6Fn2tsZBMDuGci45kzdXuQeLDpuzgACyWUAAm5H2EpAsPW0lYocNgEAB20AAzYE",
+                "file_unique_id": "AQADyWUAAm5H2Epy",
+                "file_size": 21878,
+                "width": 231,
+                "height": 320
+            },
+            "api_kwargs": {
+                "thumb": {
+                    "file_id": "AAMCAgADGQEAA6Fn2tsZBMDuGci45kzdXuQeLDpuzgACyWUAAm5H2EpAsPW0lYocNgEAB20AAzYE",
+                    "file_unique_id": "AQADyWUAAm5H2Epy",
+                    "file_size": 21878,
+                    "width": 231,
+                    "height": 320
+                }
+            }
+        },
+        "channel_chat_created": false,
+        "delete_chat_photo": false,
+        "group_chat_created": false,
+        "supergroup_chat_created": false
+    }
+}

@@ -5,7 +5,7 @@ from PIL import Image
 from rembg import remove
 
 
-TOKEN = "7005875046:AAGVM8J00J-YQTU2D4NkP2Q9gMNKlut6egg"
+TOKEN = "***********:*********-******************"
 
 
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
